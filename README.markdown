@@ -1,4 +1,4 @@
-# Barebones Framework v1.8
+# Barebones Framework v0.8
 The quick and dirty way to build static html websites in no time flat.
 
 ---------------------------------------

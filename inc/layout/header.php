@@ -27,7 +27,13 @@
 
   <div id="container">
     <header>
-
+			<h1>MyWebSite.com</h1>
+			
+			<ul id="menu">
+				<li><a href="/">Home</a></li>
+				<li><a href="/about">About Us</a></li>
+				<li><a href="/contact">Contact Us</a></li>
+			</ul>
     </header>
     
     <div id="main">

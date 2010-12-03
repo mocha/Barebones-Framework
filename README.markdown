@@ -53,4 +53,4 @@ HTML5 Boilerplate [http://html5boilerplate.com](http://html5boilerplate.com)
 
 ## License:
 
-[The Unlicense](http://unlicense.org) (aka: public domain)
+This is all public domain. Do with it anything you'd like, no attribution necessary. [http://creativecommons.org/publicdomain/zero/1.0/](http://creativecommons.org/publicdomain/zero/1.0/)

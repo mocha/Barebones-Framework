@@ -9,10 +9,9 @@ BBF is a copy of the extremely excellent HTML5 Boilerplate by Paul Irish ([http:
 
 ---------------------------------------
 
-
 ## Usage Overview
 
-1. Drop the files on your webserver anywhere (that has PHP and mod_rewrite)
+1. Drop the files on your webserver in the root directory of your domain
 2. Rename 'default.htaccess' to simply '.htaccess'
 3. Set the values in config.php to the ones appropriate for your website
 4. Modify the file header and footer in /inc/layout/header.php and /inc/layout/footer.php
@@ -37,6 +36,12 @@ domain.com/services/all           ->  /inc/services/all/default.php
 domain.com/services/all/plumbing  ->  /inc/services/all/plumbing.php
 
 Note: if your website is in a subdirectory of another domain, take that in to account with your links. i.e. if you're under domain.com/stuff/, your links should be to /stuff/links
+
+---------------------------------------
+
+## Requirements
+
+A server with php
 
 ---------------------------------------
 

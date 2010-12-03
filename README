@@ -1,0 +1,21 @@
+// About
+
+Barebones Framework v1.8
+The quick and dirty way to build static html websites in no time flat.
+
+
+
+// What it is
+
+BBF is a copy of the extremely excellent HTML5 Boilerplate by Paul Irish (http://html5boilerplate.com/) fitted with a helpful PHP script that allows you to create static html websites with ease.
+
+
+
+// Usage
+
+1. Drop the files on your webserver anywhere (that has PHP and mod_rewrite)
+2. Rename 'default.htaccess' to simply '.htaccess'
+3. Set the values in config.php to the ones appropriate for your website
+4. Modify the file header and footer in inc/layout/header.php and inc/layout/footer.php
+5. Add your own css to css/style.css
+6. Profit!

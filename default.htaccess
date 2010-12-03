@@ -1,0 +1,5 @@
+RewriteEngine on
+
+RewriteRule ^([^/\.]+)/?$ index.php?a=$1 [L]
+RewriteRule ^([^/\.]+)/([^/\.]+)/?$ index.php?a=$1&c=$2 [L]
+RewriteRule ^([^/\.]+)/([^/\.]+)/([^/\.]+)/?$ index.php?a=$1&c=$2&s=$3 [L]
